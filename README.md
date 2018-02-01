@@ -6,4 +6,4 @@ Most scripts are designed to be used by, or in conjunction with, Qlab.
 # Current Scripts
 
 - Projector Control
-	+ [PJLink-Control]()
+	+ [PJLink-Control](Qlab_AppleScripts/Projector%20Control/PJLink-Control.applescript)
